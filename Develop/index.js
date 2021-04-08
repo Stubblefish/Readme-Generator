@@ -21,14 +21,7 @@ const welcome = [
 
 //Markdown tips
 const letsGo = chalk.greenBright(`\n
-Let's Generate a README!!!
-//~~~~~~~~~~~~~~~~~~~~~~//
-     MD syntax tips
--------------------------
-Bold    **bold text**
-Italics *italicized text*       
-Links   [title](https://www.example.com)
-Image   ![alt text](image.jpg)
+Let's Make a New README!!!
 \n`);
 
 //Success message
